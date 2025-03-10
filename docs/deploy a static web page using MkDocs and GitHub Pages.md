@@ -1,0 +1,16 @@
+- log in to github.com
+- create a new repository named "yourname.github.io"
+- clone this repository to your local machine
+- run the following commands one by one in the terminal:
+    - `pip install mkdocs-material`
+    - `mkdocs new ProjectName`
+- copy the generated files to the root directory of the repository
+- create a new directory named `.github/workflows` and then create a new file named `ci.yml` inside it
+    - fill in the file content by referring to https://squidfunk.github.io/mkdocs-material/publishing-your-site/
+- GitHub repository -> Settings -> Actions -> General -> Workflow permissions ->
+    - check the "Read and write permissions" and "Allow GitHub Actions to create and approve pull requests" options -> Save
+- edit the `mkdocs.yml` file
+    - add support for mathematical formulas
+        - refer to https://squidfunk.github.io/mkdocs-material/reference/math/
+- upload the changes to GitHub
+- GitHub repository -> Settings -> change the "Branch" to "gh-pages" and save it

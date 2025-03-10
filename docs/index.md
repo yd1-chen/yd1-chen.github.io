@@ -1,0 +1,1 @@
+- [deploy a static web page using MkDocs and GitHub Pages](deploy%20a%20static%20web%20page%20using%20MkDocs%20and%20GitHub%20Pages.md)
