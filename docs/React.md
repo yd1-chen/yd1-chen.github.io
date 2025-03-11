@@ -1,0 +1,9 @@
+- create a React project
+    - install Node.js and npm
+        - https://nodejs.org/en/
+        - run the commands `node -v` and `npm -v` in the command line
+        - if the version numbers are displayed, it indicates that the installation was successful
+    - `npx create-react-app project-name`
+    - `cd project-name`
+    - start the development server: `npm start`
+        - this will open `http://localhost:3000` in your browser, displaying the default React page
