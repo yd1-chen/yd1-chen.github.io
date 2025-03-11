@@ -1,0 +1,8 @@
+- alias
+    - LLM
+- [ChatGPT](ChatGPT.md)
+- [deepseek](deepseek.md)
+- [Qwen](Qwen.md)
+- [Doubao](Doubao.md)
+- [Ernie Bot](Ernie%20Bot.md)
+- [SparkDesk](SparkDesk.md)
