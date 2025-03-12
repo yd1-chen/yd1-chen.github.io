@@ -6,3 +6,4 @@
 - [Doubao](Doubao.md)
 - [Ernie Bot](Ernie%20Bot.md)
 - [SparkDesk](SparkDesk.md)
+- [Hunyuan](Hunyuan.md)
