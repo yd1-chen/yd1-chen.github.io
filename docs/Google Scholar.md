@@ -1,0 +1,3 @@
+- mirror sites
+    - https://ac.scmor.com/
+    - http://xs.3822808.com/
