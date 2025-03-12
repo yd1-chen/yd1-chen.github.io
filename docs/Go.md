@@ -1,0 +1,13 @@
+- set up a Go development environment with VSCode
+    - download and install Go from the official website (https://go.dev/dl/)
+        - run `go version` in the terminal
+        - if the version number is displayed, the installation is successful
+    - set up a Chinese proxy
+        - Windows
+            - `go env -w GO111MODULE=on`
+            - `go env -w GOPROXY=https://goproxy.cn,direct`
+    - install the Go extension for VSCode
+    - open VSCode -> Ctrl + Shift + P -> Go: Intall/Update Tools -> select all -> OK
+    - create a new folder as the project root directory, and then run `go mod init ProjectName` in the terminal for initialization
+    - create a file named `ProjectName.go` and write code in it
+    - to run the program, enter `go run ProjectName.go` in the terminal
