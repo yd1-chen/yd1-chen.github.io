@@ -1,4 +1,4 @@
-## [Go](Go.md)
+- [Go](Go.md)
 ```Go
 package main
 
